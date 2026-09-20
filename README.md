@@ -1,7 +1,7 @@
 <h1>Hi, I'm Amber, an IT Professional </a>☺</h1>
 
 - <b>Microsoft Azure Entra ID</b>
-- [Creating Users in Entra ID]()
+- [Creating Users in Entra ID](https://github.com/Amber-IAM/user-accounts)
 - [Cloud Provisioning - P2 Licensing]()
 - [Role Assignments]()
 - [Group Assignments]()
