@@ -6,7 +6,7 @@
 - [Role Assignments](https://github.com/Amber-IAM/role-assignments-)
 - [Group Assignments](https://github.com/Amber-IAM/group--assign)
 - [Identity Lifecycle](https://github.com/Amber-IAM/identity-lifecycle)
-- [Audit Logs]()
+- [Audit Logs](https://github.com/Amber-IAM/audit-logs)
 - [Sign-In Logs]()
 - [Authentication]()
 - <b>Deployment, Networking, Troubleshooting</b>
