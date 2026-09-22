@@ -4,7 +4,7 @@
 - [Creating Users in Entra ID](https://github.com/Amber-IAM/user-accounts)
 - [Cloud Provisioning - P2 Licensing](https://github.com/Amber-IAM/p2-licensing)
 - [Role Assignments](https://github.com/Amber-IAM/role-assignments-)
-- [Group Assignments]()
+- [Group Assignments](https://github.com/Amber-IAM/group--assign)
 - [Identity Lifecycle]()
 - [Audit Logs]()
 - [Sign-In Logs]()
