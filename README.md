@@ -5,7 +5,7 @@
 - [Cloud Provisioning - P2 Licensing](https://github.com/Amber-IAM/p2-licensing)
 - [Role Assignments](https://github.com/Amber-IAM/role-assignments-)
 - [Group Assignments](https://github.com/Amber-IAM/group--assign)
-- [Identity Lifecycle]()
+- [Identity Lifecycle](https://github.com/Amber-IAM/identity-lifecycle)
 - [Audit Logs]()
 - [Sign-In Logs]()
 - [Authentication]()
