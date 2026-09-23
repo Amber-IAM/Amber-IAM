@@ -10,7 +10,7 @@
 - [Sign-In Logs](https://github.com/Amber-IAM/sign-in-logs)
 - [Authentication](https://github.com/Amber-IAM/authentication)
 - <b>Deployment, Networking, Troubleshooting</b>
-- [Creating Resource Group, Deploying Virtual Machine, and RDP]()
+- [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/Amber-IAM/resource-group-vm-rdp)
 - [Creating and Managing Local Users]()
 - [Troubleshooting Network Connectivity]()
 - [Managing Windows Updates]()
