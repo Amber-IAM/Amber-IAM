@@ -11,7 +11,7 @@
 - [Authentication](https://github.com/Amber-IAM/authentication)
 - <b>Deployment, Networking, Troubleshooting</b>
 - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/Amber-IAM/resource-group-vm-rdp)
-- [Creating and Managing Local Users]()
+- [Creating and Managing Local Users](https://github.com/Amber-IAM/manage-local-users)
 - [Troubleshooting Network Connectivity]()
 - [Managing Windows Updates]()
 - [Software Installation]()
