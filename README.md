@@ -19,4 +19,4 @@
 - [Credential Manager and Cache](https://github.com/Amber-IAM/credential-manager-cache)
 - [PowerShell](https://github.com/Amber-IAM/powershell-overview)
 - <b>Ticketing System</b>
-- [SpiceWorks Ticketing System]()
+- [SpiceWorks Ticketing System](https://github.com/Amber-IAM/spiceworks-ticketing)
