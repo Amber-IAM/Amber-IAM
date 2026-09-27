@@ -13,7 +13,7 @@
 - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/Amber-IAM/resource-group-vm-rdp)
 - [Creating and Managing Local Users](https://github.com/Amber-IAM/manage-local-users)
 - [Troubleshooting Network Connectivity](https://github.com/Amber-IAM/troubleshoot-network-connection-)
-- [Managing Windows Updates]()
+- [Managing Windows Updates](https://github.com/Amber-IAM/manage-window-updates)
 - [Software Installation]()
 - [Print Queue]()
 - [Credential Manager and Cache]()
