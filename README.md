@@ -17,6 +17,6 @@
 - [Software Installation](https://github.com/Amber-IAM/software-install)
 - [Print Queue](https://github.com/Amber-IAM/print-queue)
 - [Credential Manager and Cache](https://github.com/Amber-IAM/credential-manager-cache)
-- [PowerShell]()
+- [PowerShell](https://github.com/Amber-IAM/powershell-overview)
 - <b>Ticketing System</b>
 - [SpiceWorks Ticketing System]()
