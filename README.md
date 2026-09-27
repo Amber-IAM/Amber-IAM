@@ -15,7 +15,7 @@
 - [Troubleshooting Network Connectivity](https://github.com/Amber-IAM/troubleshoot-network-connection-)
 - [Managing Windows Updates](https://github.com/Amber-IAM/manage-window-updates)
 - [Software Installation](https://github.com/Amber-IAM/software-install)
-- [Print Queue]()
+- [Print Queue](https://github.com/Amber-IAM/print-queue)
 - [Credential Manager and Cache]()
 - [PowerShell]()
 - <b>Ticketing System</b>
