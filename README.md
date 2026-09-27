@@ -14,7 +14,7 @@
 - [Creating and Managing Local Users](https://github.com/Amber-IAM/manage-local-users)
 - [Troubleshooting Network Connectivity](https://github.com/Amber-IAM/troubleshoot-network-connection-)
 - [Managing Windows Updates](https://github.com/Amber-IAM/manage-window-updates)
-- [Software Installation]()
+- [Software Installation](https://github.com/Amber-IAM/software-install)
 - [Print Queue]()
 - [Credential Manager and Cache]()
 - [PowerShell]()
