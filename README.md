@@ -20,3 +20,12 @@
 - [PowerShell](https://github.com/Amber-IAM/powershell-overview)
 - <b>Ticketing System</b>
 - [SpiceWorks Ticketing System](https://github.com/Amber-IAM/spiceworks-ticketing)
+- <b>Okta</b>
+- [Import Users from Entra to Okta](https://github.com/Amber-IAM/import-users-entra-okta)
+- [Enrollment Provisioning](https://github.com/Amber-IAM/enroll-provision)
+- [Creat Users Manually](https://github.com/Amber-IAM/create-users-manually)
+- [Adding Attributes to Users](https://github.com/Amber-IAM/users-attributes)
+- [Creating Groups](https://github.com/Amber-IAM/create-groups)
+- [ABAC Rules](https://github.com/Amber-IAM/ABAC-rules)
+- [Device Management](https://github.com/Amber-IAM/device-management)
+- [Audit Logs](https://github.com/Amber-IAM/okta-audit-logs)
